@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "advisory-headshot-1",
+      "description": "Professional headshot of Dr. Anya Sharma",
+      "imageUrl": "https://images.unsplash.com/photo-1652471943570-f3590a4e52ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjBoZWFkc2hvdHxlbnwwfHx8fDE3NjE2Njg2ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "advisory-headshot-2",
+      "description": "Professional headshot of Dr. Ben Carter",
+      "imageUrl": "https://images.unsplash.com/photo-1651008376811-b90baee60c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkb2N0b3IlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE2MzEyOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "doctor portrait"
+    },
+    {
+      "id": "advisory-headshot-3",
+      "description": "Professional headshot of Dr. Chloe Davis",
+      "imageUrl": "https://images.unsplash.com/photo-1630635280270-00799dd04da6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzY2llbnRpc3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE1OTQ5MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scientist portrait"
+    },
+    {
+      "id": "advisory-headshot-4",
+      "description": "Professional headshot of Dr. David Lee",
+      "imageUrl": "https://images.unsplash.com/photo-1618053448748-b7251851d014?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyZXNlYXJjaGVyJTIwaGVhZHNob3R8ZW58MHx8fHwxNzYxNjgyNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "researcher headshot"
+    },
+    {
+      "id": "user-scenario-caregiver",
+      "description": "A caring person helping an elderly woman with her medication.",
+      "imageUrl": "https://images.unsplash.com/photo-1686052401814-d0430982f8f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjYXJlZ2l2ZXIlMjBlbGRlcmx5fGVufDB8fHx8MTc2MTYyNDA1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caregiver elderly"
+    },
+    {
+      "id": "user-scenario-athlete",
+      "description": "An athlete organizing supplements and medications.",
+      "imageUrl": "https://images.unsplash.com/photo-1635357451365-a70bda0bf3a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhdGhsZXRlJTIwc3VwcGxlbWVudHN8ZW58MHx8fHwxNzYxNjgyNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "athlete supplements"
+    },
+    {
+      "id": "user-scenario-traveler",
+      "description": "A person traveling and looking at different foods.",
+      "imageUrl": "https://images.unsplash.com/photo-1613256109028-e66d2e0d8ee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWxlciUyMGZvb2R8ZW58MHx8fHwxNzYxNjgyNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traveler food"
+    },
+    {
+      "id": "knowledge-base-grapefruit",
+      "description": "A close-up shot of grapefruits.",
+      "imageUrl": "https://images.unsplash.com/photo-1709828934091-511512b3b0d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxncmFwZWZydWl0JTIwc2xpY2V8ZW58MHx8fHwxNzYxNjgyNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grapefruit slice"
+    },
+    {
+      "id": "knowledge-base-supplements",
+      "description": "Various supplement pills and bottles.",
+      "imageUrl": "https://images.unsplash.com/photo-1734607404671-f2b878caf3ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdXBwbGVtZW50JTIwcGlsbHN8ZW58MHx8fHwxNzYxNjgyNDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "supplement pills"
+    },
+    {
+      "id": "digital-card-iphone",
+      "description": "Mockup of an iPhone showing a digital wallet card.",
+      "imageUrl": "https://images.unsplash.com/photo-1664883247910-c83c54ccdd76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpcGhvbmUlMjBtb2NrdXB8ZW58MHx8fHwxNzYxNjUyMzgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "iphone mockup"
+    },
+    {
+      "id": "digital-card-android",
+      "description": "Mockup of an Android phone showing a digital wallet card.",
+      "imageUrl": "https://images.unsplash.com/photo-1671445791136-049a3f151e3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhbmRyb2lkJTIwcGhvbmV8ZW58MHx8fHwxNzYxNTk4MzkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "android phone"
+    },
+    {
+      "id": "solutions-hero",
+      "description": "A modern hospital interior or a doctor looking at a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1648501910123-ab18ea52ebbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb2Rlcm4lMjBob3NwaXRhbHxlbnwwfHx8fDE3NjE2Mzg2NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern hospital"
+    },
+    {
+      "id": "synthesis-engine-bg",
+      "description": "Abstract technological background with flowing data streams.",
+      "imageUrl": "https://images.unsplash.com/photo-1739588589478-928d9f1f0f8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXRhJTIwc3RyZWFtfGVufDB8fHx8MTc2MTY4MjQ4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data stream"
+    }
+  ]
+}
