@@ -38,7 +38,7 @@ const SmartInsuranceClaimsPreAnalyzerOutputSchema = z.object({
     .describe('A list of identified issues that may lead to denial.'),
   missingDocuments: z
     .array(z.string())
-    describe('A checklist of documents that are missing for a successful claim.'),
+    .describe('A checklist of documents that are missing for a successful claim.'),
   recommendations: z
     .array(z.string())
     .describe('Actionable steps to improve the chances of approval.'),
